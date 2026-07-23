@@ -1,0 +1,24 @@
+{
+    "informacion": {
+        "nombre_negocio": "AMPLIFICACION MARIO",
+        "titulo_principal": "MUSISC",
+        "descripcion": "CANTAMOS ",
+        "whatsapp": "69240891",
+        "catalogo": "",
+        "facebook": "",
+        "instagram": "",
+        "tiktok": "",
+        "pagina_web": "",
+        "google_maps": "",
+        "correo": "",
+        "logo": "trabajos.png"
+    },
+    "listas_precios": [],
+    "galeria_trabajos": [],
+    "carrusel_principal": [
+        "handy.jpg",
+        "handy.jpg"
+    ],
+    "botones": [],
+    "plantilla": "Moderna"
+}
